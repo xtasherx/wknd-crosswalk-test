@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p13754-e219379.adobeaemcloud.com/content/wknd
+    url: https://author-p13754-e219379.adobeaemcloud.com/content/wknd/en
     type: markup
     suffix: ".franklin.html?wcmmode=disabled"
